@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.multiplication = exports.division = exports.soustraction = exports.addition = void 0;
+exports.multi = exports.division = exports.soustraction = exports.addition = void 0;
 function addition(x, y) {
     return x + y;
 }
@@ -16,4 +16,4 @@ exports.division = division;
 function multiplication(x, y) {
     return x * y;
 }
-exports.multiplication = multiplication;
+exports.multi = multiplication;
