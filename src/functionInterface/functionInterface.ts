@@ -5,7 +5,7 @@ interface IHello {
 const sayHello: IHello = (name, age) =>
 	console.log(`Bonjour à toi ${name} tu as ${age} ans`);
 
-sayHello("Térence");
+sayHello("Térence", 32);
 
 const bestFriend: IHello = (name) => name;
 

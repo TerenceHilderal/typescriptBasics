@@ -1,0 +1,21 @@
+{
+	"name": "typescript",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ./dist/main.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TerenceHilderal/typescriptBasics.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/TerenceHilderal/typescriptBasics/issues"
+	},
+	"homepage": "https://github.com/TerenceHilderal/typescriptBasics#readme"
+}
